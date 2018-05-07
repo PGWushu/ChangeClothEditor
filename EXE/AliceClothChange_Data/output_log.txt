@@ -1,0 +1,37 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x191b)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   22.20.16.4836
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\LibCore.dll (this message is harmless)
+Loading D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\LibCore.dll into Unity Child Domain
+Platform assembly: D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\LitJson.dll (this message is harmless)
+Loading D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\LitJson.dll into Unity Child Domain
+Platform assembly: D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\org.in2bits.MyXls.dll (this message is harmless)
+Loading D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\org.in2bits.MyXls.dll into Unity Child Domain
+Platform assembly: D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+Platform assembly: D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initialized touch support.
+UnloadTime: 1.134616 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 42b8 -> priority: 1 
