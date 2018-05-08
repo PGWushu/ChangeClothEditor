@@ -25,13 +25,13 @@ Platform assembly: D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\org
 Loading D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\org.in2bits.MyXls.dll into Unity Child Domain
 Platform assembly: D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\System.Windows.Forms.dll (this message is harmless)
 Loading D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
-- Completed reload, in  0.041 seconds
+- Completed reload, in  0.062 seconds
 Platform assembly: D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\ChangeClothEditorExe\EXE\AliceClothChange_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
 <RI> Initialized touch support.
-UnloadTime: 1.134616 ms
+UnloadTime: 1.601974 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 42b8 -> priority: 1 
+  Thread -> id: 2338 -> priority: 1 

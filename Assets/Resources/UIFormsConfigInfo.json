@@ -3,24 +3,6 @@
 [
 {"Key":"本配置文件说明"},
 
-{"Key":"LogonUIForm",
-"Value":"UIPrefabs\\LogonUIForm"},
-
-{"Key":"SelectHeroUIForm",
-"Value":"UIPrefabs\\SelectHeroUIForm"},
-
-{"Key":"MainCityUIForm",
-"Value":"UIPrefabs\\MainCityUIForm"},
-
-{"Key":"HeroInfoUIForm",
-"Value":"UIPrefabs\\HeroInfoUIForm"},
-
-{"Key":"MarketUIFrom",
-"Value":"UIPrefabs\\MarketUIFrom"},
-
-{"Key":"PropDetailUIForm",
-"Value":"UIPrefabs\\PropDetailUIForm"},
-
 {"Key":"InputFieldUIFrom",
 "Value":"UIPrefabs\\InputFieldUIFrom"},
 
